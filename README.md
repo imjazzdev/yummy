@@ -4,7 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-![ui yt downloader](https://user-images.githubusercontent.com/113785858/231750478-daf910c6-443f-4559-9fc5-fa151814d2b9.png)
 
 
 A few resources to get you started if this is your first Flutter project:
